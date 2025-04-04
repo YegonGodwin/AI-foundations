@@ -1,0 +1,63 @@
+Bengaluru House Data - Exploratory Analysis Summary
+==================================================
+
+1. Dataset Overview
+--------------------
+Total number of properties: 12828
+Number of features: 14
+
+3. Property Size Distribution
+--------------------
+1 BHK: 640 properties (4.99%)
+2 BHK: 5469 properties (42.63%)
+3 BHK: 4754 properties (37.06%)
+4 BHK: 1273 properties (9.92%)
+5 BHK: 301 properties (2.35%)
+6 BHK: 181 properties (1.41%)
+7 BHK: 81 properties (0.63%)
+8 BHK: 66 properties (0.51%)
+9 BHK: 40 properties (0.31%)
+10 BHK: 12 properties (0.09%)
+11 BHK: 4 properties (0.03%)
+12 BHK: 1 properties (0.01%)
+13 BHK: 1 properties (0.01%)
+14 BHK: 1 properties (0.01%)
+16 BHK: 1 properties (0.01%)
+18 BHK: 1 properties (0.01%)
+19 BHK: 1 properties (0.01%)
+27 BHK: 1 properties (0.01%)
+
+4. Area Type Distribution
+--------------------
+Super built-up  Area: 8690 properties (67.74%)
+Built-up  Area: 2368 properties (18.46%)
+Plot  Area: 1685 properties (13.14%)
+Carpet  Area: 85 properties (0.66%)
+
+5. Top 10 Locations by Property Count
+--------------------
+Whitefield: 537 properties
+Sarjapur  Road: 396 properties
+Electronic City: 295 properties
+Kanakpura Road: 261 properties
+Thanisandra: 230 properties
+Yelahanka: 202 properties
+Uttarahalli: 180 properties
+Hebbal: 171 properties
+Raja Rajeshwari Nagar: 165 properties
+Marathahalli: 163 properties
+Bannerghatta Road: 150 properties
+Hennur Road: 148 properties
+7th Phase JP Nagar: 142 properties
+Haralur Road: 139 properties
+Electronic City Phase II: 131 properties
+
+7. Correlation Analysis
+--------------------
+Correlation between Total Square Feet and Price: 0.6165
+Correlation between BHK and Price: 0.4146
+Correlation between Number of Bathrooms and Price: 0.4686
+Correlation between Number of Balconies and Price: 0.1346
+
+8. Price per Square Feet Analysis
+--------------------
